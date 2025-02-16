@@ -6,7 +6,7 @@ Dynamic and motivated Computer Science graduate with a strong foundation in prog
 
 This project involves analyzing transaction data of merchants using company's payment processing services. The primary objectives are to categorize different types of businesses based on transaction patterns and predict merchant churn to inform retention strategies using machine learning algorithms
 
-![EEG Band Discovery](imagesAA/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
+![EEG Band Discovery](imagesAA/Pest invasion.webp)
 
 ### Invasive Pest Monitoring
 [Project](https://github.com/AaryaniChowdaryAmbati/Invasive_Pest_Monitoring_PowerBI)
