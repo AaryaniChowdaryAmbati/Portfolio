@@ -8,25 +8,24 @@ This project involves analyzing transaction data of merchants using company's pa
 
 ![EEG Band Discovery](imagesAA/customerchurnimage-ezgif.com-webp-to-jpg-converter.jpg)
 
-### Smart home system
+### Invasive Pest Monitoring
 [Project](https://github.com/Gnanu123/Smart-Home-system-design)
 
-This Smart Home System Design Project models a sophisticated automated home environment, incorporating a variety of sensors, control devices, and integrated external systems. The project involves designing a comprehensive software architecture to manage key functionalities such as temperature regulation, home security, water leak detection, fire alarms, and energy monitoring.
+This project involves creating an interactive dashboard to monitor and visualize the spread of an invasive insect species across multiple forest types. The dashboard integrates data from drone imagery, GPS-tagged field observations, and satellite data to provide real-time insights into affected areas. It is designed analyze pest density, spread trends, and other critical metrics.
 
 
 ![Bike Study](imagesAA/smarthome-ezgif.com-webp-to-jpg-converter.jpg)
 
-### Sales analysis
+### Liver Disease Prediction 
 [Project](https://github.com/Gnanu123/Sales-performance-PowerBI)
 
-This project involves the analysis and visualization of sales data for a Organisation using Power BI. The goal of this analysis is to evaluate the year-to-date (YTD) sales performance, compare it against the previous year's data (PYTD), and identify key metrics that impact profitability and sales growth. The insights provided help in making data-driven decisions for better sales and profitability management.
-
+This research paper explores the use of Machine Learning (ML) techniques to predict liver disease using the Indian Liver Patient Dataset from UCI. The study applies Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) for dimensionality reduction, followed by classifier evaluation
 ![Project](imagesAA/sales-ezgif.com-webp-to-jpg-converter.jpg)
 
-### Flight reviews analysis
+### Payroll System
 [Project](https://github.com/Gnanu123/Flight-ratings---Tableau)
 
-This project involves the analysis and visualization of customer reviews for Airways using Tableau. The primary objective of this dashboard is to provide a comprehensive overview of customer feedback across various metrics, including service quality, entertainment, seat comfort, and value for money. The insights derived from this analysis can help identify key areas of improvement and enhance the overall customer experience.
+The online payroll system is a web application that is used to keep track of activities such as Net pay and Gross pay. The aim is to create an online payroll system that will keep track of employee information, salary, teachers, freelancers, training schedules, applicant information, payments, fees, course descriptions, records, and queries, as well as keep track of queries from advertisements and company expenditures and revenue.
 
 ![Bike Study](imagesAA/flightratings-ezgif.com-webp-to-jpg-converter.jpg)
 
