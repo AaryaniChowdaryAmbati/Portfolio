@@ -35,7 +35,7 @@ The online payroll system is a web application that is used to keep track of act
 
 This project involves the analysis and visualization of sales data for a Organisation using Power BI. The goal of this analysis is to evaluate the year-to-date (YTD) sales performance, compare it against the previous year's data (PYTD), and identify key metrics that impact profitability and sales growth. The insights provided help in making data-driven decisions for better sales and profitability management.
 
-![Project](images/sales-ezgif.com-webp-to-jpg-converter.jpg)
+![Project](imagesAA/sales-ezgif.com-webp-to-jpg-converter.jpg)
 
 ### Flight reviews analysis
 [Project](https://github.com/AaryaniChowdaryAmbati/Flight-ratings-Tableau)
