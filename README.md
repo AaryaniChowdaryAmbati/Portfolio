@@ -30,3 +30,17 @@ The online payroll system is a web application that is used to keep track of act
 ![Bike Study](imagesAA/payroll-system.jpg)
 
 
+### Payroll System
+[Project](https://github.com/AaryaniChowdaryAmbati/Payroll_System_Cert)
+
+The online payroll system is a web application that is used to keep track of activities such as Net pay and Gross pay. The aim is to create an online payroll system that will keep track of employee information, salary, teachers, freelancers, training schedules, applicant information, payments, fees, course descriptions, records, and queries, as well as keep track of queries from advertisements and company expenditures and revenue.
+
+![Bike Study](imagesAA/payroll-system.jpg)
+
+
+### Payroll System
+[Project](https://github.com/AaryaniChowdaryAmbati/Payroll_System_Cert)
+
+The online payroll system is a web application that is used to keep track of activities such as Net pay and Gross pay. The aim is to create an online payroll system that will keep track of employee information, salary, teachers, freelancers, training schedules, applicant information, payments, fees, course descriptions, records, and queries, as well as keep track of queries from advertisements and company expenditures and revenue.
+
+![Bike Study](imagesAA/payroll-system.jpg)
