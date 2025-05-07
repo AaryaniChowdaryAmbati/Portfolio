@@ -42,4 +42,4 @@ This project involves the analysis and visualization of sales data for a Organis
 
 This project involves the analysis and visualization of customer reviews for Airways using Tableau. The primary objective of this dashboard is to provide a comprehensive overview of customer feedback across various metrics, including service quality, entertainment, seat comfort, and value for money. The insights derived from this analysis can help identify key areas of improvement and enhance the overall customer experience.
 
-![Bike Study](images/flightratings-ezgif.com-webp-to-jpg-converter.jpg)
+![Bike Study](imagesAA/flightratings-ezgif.com-webp-to-jpg-converter.jpg)
