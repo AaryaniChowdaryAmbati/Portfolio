@@ -30,17 +30,16 @@ The online payroll system is a web application that is used to keep track of act
 ![Bike Study](imagesAA/payroll-system.jpg)
 
 
-### Payroll System
-[Project](https://github.com/AaryaniChowdaryAmbati/Payroll_System_Cert)
+### Sales analysis
+[Project](https://github.com/Gnanu123/Sales-performance-PowerBI)
 
-The online payroll system is a web application that is used to keep track of activities such as Net pay and Gross pay. The aim is to create an online payroll system that will keep track of employee information, salary, teachers, freelancers, training schedules, applicant information, payments, fees, course descriptions, records, and queries, as well as keep track of queries from advertisements and company expenditures and revenue.
+This project involves the analysis and visualization of sales data for a Organisation using Power BI. The goal of this analysis is to evaluate the year-to-date (YTD) sales performance, compare it against the previous year's data (PYTD), and identify key metrics that impact profitability and sales growth. The insights provided help in making data-driven decisions for better sales and profitability management.
 
-![Bike Study](imagesAA/payroll-system.jpg)
+![Project](images/sales-ezgif.com-webp-to-jpg-converter.jpg)
 
+### Flight reviews analysis
+[Project](https://github.com/Gnanu123/Flight-ratings---Tableau)
 
-### Payroll System
-[Project](https://github.com/AaryaniChowdaryAmbati/Payroll_System_Cert)
+This project involves the analysis and visualization of customer reviews for Airways using Tableau. The primary objective of this dashboard is to provide a comprehensive overview of customer feedback across various metrics, including service quality, entertainment, seat comfort, and value for money. The insights derived from this analysis can help identify key areas of improvement and enhance the overall customer experience.
 
-The online payroll system is a web application that is used to keep track of activities such as Net pay and Gross pay. The aim is to create an online payroll system that will keep track of employee information, salary, teachers, freelancers, training schedules, applicant information, payments, fees, course descriptions, records, and queries, as well as keep track of queries from advertisements and company expenditures and revenue.
-
-![Bike Study](imagesAA/payroll-system.jpg)
+![Bike Study](images/flightratings-ezgif.com-webp-to-jpg-converter.jpg)
